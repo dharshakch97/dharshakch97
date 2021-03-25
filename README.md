@@ -17,7 +17,7 @@
 [<img align="left" alt="dharshakch97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ur__harsha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dharshak97 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![Dharshak's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/dharshak)
+[<img align="left" alt="dharshak | dev.to" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev.to] 
 
 <br />
 <br />
@@ -49,12 +49,6 @@
 
 </div>
 
-<!-- 
-<details>
-  <summary> GitHub Stats</summary>
-  <img align="left" alt="pranjalg13 GitHub Stats" src="https://github-readme-stats.pranjalg13.vercel.app/api?username=pranjalg13&show_icons=true&hide_border=true&theme=tokyonight" />
-
-</details> -->
 
 [linkedin]: https://www.linkedin.com/in/dharshakch97/
 [twitter]: https://twitter.com/ur__harsha
