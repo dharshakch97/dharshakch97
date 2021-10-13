@@ -42,13 +42,9 @@
 
 </br>
 
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pranjalg13&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=dharshakch97&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
+![Dharshak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharshakch97&count_private=true&show_icons=true)
 
-</div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharshakch97&layout=compact)
 
 [linkedin]: https://www.linkedin.com/in/dharshakch97/
 [twitter]: https://twitter.com/ur__harsha
